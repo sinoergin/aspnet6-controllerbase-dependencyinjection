@@ -1,3 +1,3 @@
 # aspnet6-controllerbase-dependencyinjection
 
-Tried DI inject from the MyControllerBase contoller.
+It has been tried to inject dependencies on the MyControllerBase contoller.
